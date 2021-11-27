@@ -1,9 +1,9 @@
 const BLOG = {
-  title: 'CRAIGARY',
-  author: 'Craig Hart',
-  email: 'i@craigary.net',
-  link: 'https://nobelium.vercel.app',
-  description: 'This gonna be an awesome website.',
+  title: 'txyao博客',
+  author: 'txyao',
+  email: '',
+  link: 'https://txyao-homepagp.notion.site/txyao-b13e2cff2c9d42a8ba200966110bb3b0',
+  description: '思绪来去如风，希望在这里有所停留',
   lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   appearance: 'auto', // ['light', 'dark', 'auto'],
   font: 'sans-serif', // ['sans-serif', 'serif']
